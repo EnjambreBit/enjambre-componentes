@@ -1,0 +1,1 @@
+export { default } from 'enjambre-componentes/components/enjambre-componentes/logo/component';
