@@ -1,0 +1,12 @@
+* {
+  font-family: "Lato";
+}
+
+pre {
+  font-family: 'Droid Sans Mono', monospace;
+}
+
+body {
+  width: 960px;
+  margin: auto;
+}
