@@ -2,8 +2,8 @@
   font-family: "Lato";
 }
 
-pre {
-  font-family: 'Droid Sans Mono', monospace;
+pre, pre span {
+  font-family: 'Droid Sans Mono', monospace !important;
 }
 
 body {
